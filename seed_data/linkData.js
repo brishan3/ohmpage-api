@@ -8931,15 +8931,6 @@ module.exports = [
     status: "UP"
   },
   {
-    id: 992,
-    title: "Gallery Cherry",
-    url: "https://github.com/RobbWatershed/GalleryCherry",
-    description: "XXX Galleries for Android focused on Manga and Hentai",
-    category: "Software",
-    subcategory: "Android",
-    status: "UP"
-  },
-  {
     id: 993,
     title: "Masscan",
     url: "https://github.com/robertdavidgraham/masscan",
@@ -13503,15 +13494,6 @@ module.exports = [
     status: "UP"
   },
   {
-    id: 1500,
-    title: "Private Delights",
-    url: "https://privatedelights.ch",
-    description: "Read reviews and meet escorts / providers",
-    category: "Products/Services",
-    subcategory: "XXX",
-    status: "UP"
-  },
-  {
     id: 1501,
     title: "Private Relay",
     url: "https://privaterelay.com/en/",
@@ -13581,15 +13563,6 @@ module.exports = [
     description: "It's Android for the iPhone",
     category: "Software",
     subcategory: "Apple",
-    status: "UP"
-  },
-  {
-    id: 1509,
-    title: "Pro Thots",
-    url: "https://prothots.com",
-    description: "Free only fans leaks",
-    category: "Entertainment",
-    subcategory: "XXX",
     status: "UP"
   },
   {
@@ -15861,15 +15834,6 @@ module.exports = [
     status: "UP"
   },
   {
-    id: 1762,
-    title: "Stash App",
-    url: "https://stashapp.cc",
-    description: "App to stash and organize all of your adult content",
-    category: "Software",
-    subcategory: "XXX",
-    status: "UP"
-  },
-  {
     id: 1763,
     title: "Statistically",
     url: "https://statically.io",
@@ -16590,15 +16554,6 @@ module.exports = [
     status: "UP"
   },
   {
-    id: 1843,
-    title: "The Fappening Blog Forum",
-    url: "https://thefappeningblog.com/forum/",
-    description: "Forum for the Fappening Blog (XXX)",
-    category: "Products/Services",
-    subcategory: "Forum",
-    status: "UP"
-  },
-  {
     id: 1844,
     title: "The Geeks",
     url: "https://thegeeks.click",
@@ -16680,15 +16635,6 @@ module.exports = [
     status: "UP"
   },
   {
-    id: 1853,
-    title: "The Porn Dude",
-    url: "https://theporndude.com",
-    description: "List of porn links",
-    category: "Products/Services",
-    subcategory: "XXX",
-    status: "UP"
-  },
-  {
     id: 1854,
     title: "The ROM Depot",
     url: "https://theromdepot.com",
@@ -16707,15 +16653,6 @@ module.exports = [
     status: "UP"
   },
   {
-    id: 1856,
-    title: "TheYNC",
-    url: "https://theync.com",
-    description: "Crazy videos, gore, XXX, etc.  NSFW",
-    category: "Products/Services",
-    subcategory: "Video Streaming",
-    status: "UP"
-  },
-  {
     id: 1857,
     title: "This Cat Does Not Exist",
     url: "https://thiscatdoesnotexist.com",
@@ -16731,33 +16668,6 @@ module.exports = [
     description: "Generative Adversial Networks (GAN) to make deepfakes",
     category: "Products/Services",
     subcategory: "Other",
-    status: "UP"
-  },
-  {
-    id: 1859,
-    title: "Thot Book",
-    url: "https://thotbook.tv",
-    description: "Only Fans Leaks",
-    category: "Products/Services",
-    subcategory: "XXX",
-    status: "UP"
-  },
-  {
-    id: 1860,
-    title: "Thot Hub",
-    url: "https://thothub.ru",
-    description: "Amateur video",
-    category: "Products/Services",
-    subcategory: "XXX",
-    status: "UP"
-  },
-  {
-    id: 1861,
-    title: "Thots TV",
-    url: "https://thots.tv",
-    description: "Amateur video",
-    category: "Products/Services",
-    subcategory: "XXX",
     status: "UP"
   },
   {
@@ -17163,15 +17073,6 @@ module.exports = [
     description: "Cyber security training",
     category: "Products/Services",
     subcategory: "Security",
-    status: "UP"
-  },
-  {
-    id: 1907,
-    title: "Tryst",
-    url: "https://tryst.link",
-    description: "Home of the independent escort",
-    category: "Products/Services",
-    subcategory: "XXX",
     status: "UP"
   },
   {
@@ -17622,15 +17523,6 @@ module.exports = [
     description: "Secure and confidential temporary image hosting",
     category: "Products/Services",
     subcategory: "File Host",
-    status: "UP"
-  },
-  {
-    id: 1958,
-    title: "Unseen",
-    url: "https://unseen.li",
-    description: "Provate and professional escort service - worldwide",
-    category: "Products/Services",
-    subcategory: "XXX",
     status: "UP"
   },
   {
@@ -18090,15 +17982,6 @@ module.exports = [
     description: "SIM card encryption with anonymity",
     category: "Products/Services",
     subcategory: "Security",
-    status: "UP"
-  },
-  {
-    id: 2010,
-    title: "Viral Porn",
-    url: "https://viralporn.com",
-    description: "Viral sex gifs, pics etc.",
-    category: "Products/Services",
-    subcategory: "XXX",
     status: "UP"
   },
   {

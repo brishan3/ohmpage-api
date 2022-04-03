@@ -14,7 +14,8 @@ exports.up = function(knex) {
     .createTable('backgrounds', (table) => {
       table.increments('id').primary();
       table.string('title').notNullable();
-      table.string('url').notNullable();
+      table.string('file').notNullable();
+      table.string('thumbnail').notNullable();
       table.timestamp('updated_at').defaultTo(knex.fn.now());
     });
 };

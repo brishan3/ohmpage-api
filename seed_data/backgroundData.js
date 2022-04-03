@@ -2,16 +2,37 @@ module.exports = [
   {
     id: 1,
     title: "Default",
-    url: "localhost:8081/default.png"
+    thumbnail: "default-min.png",
+    file: "default.png"
   },
   {
     id: 2,
-    title: "Sunset Dream",
-    url: "localhost:8081/eclipse.jpg"
+    title: "Eclipse",
+    thumbnail: "eclipse-min.jpg",
+    file: "eclipse.jpg"
   },
   {
     id: 3,
-    title: "Starry Night",
-    url: "localhost:8081/starrynight.png"
+    title: "Starry",
+    thumbnail: "starry-min.png",
+    file: "starry.png"
+  },
+  {
+    id: 4,
+    title: "Coast",
+    thumbnail: "coast-min.png",
+    file: "coast.png"
+  },
+  {
+    id: 5,
+    title: "Clouds",
+    thumbnail: "clouds-min.png",
+    file: "clouds.png"
+  },
+  {
+    id: 6,
+    title: "Leaf",
+    thumbnail: "leaf-min.png",
+    file: "leaf.png"
   }
 ]
