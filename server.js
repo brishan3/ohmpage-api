@@ -2,7 +2,7 @@ require('dotenv').config(); //load .env variables
 const express = require('express'); 
 const app = express();
 const cors = require('cors');
-const PORT = process.env.PORT || 8080; 
+const PORT = process.env.PORT || 8081; 
 
 const LinksRoute = require('./routes/LinksRoute');
 const BackgroundsRoute = require('./routes/BackgroundsRoute');
