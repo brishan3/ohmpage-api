@@ -20,7 +20,7 @@ module.exports = [
   {
     id: 4,
     title: "Coast",
-    thumbnail: "coast-min.png",
+    thumbnail: "coast-min.jpg",
     file: "coast.png"
   },
   {
@@ -32,7 +32,7 @@ module.exports = [
   {
     id: 6,
     title: "Leaf",
-    thumbnail: "leaf-min.png",
+    thumbnail: "leaf-min.jpg",
     file: "leaf.png"
   }
 ]
